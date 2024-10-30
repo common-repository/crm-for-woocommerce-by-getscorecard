@@ -1,0 +1,243 @@
+.woo_getscorecard_banner {
+    width:97%;
+
+    height:269px;
+
+    float:left;
+    clear:right;
+    /*background: url('../images/banner_cf7_plugin.png') no-repeat top left;*/
+    background: url('../images/banner_woocommerce_gs.jpg') no-repeat top left;
+    margin:20px 0px 15px 0px;
+    padding:0px 20px 0px 0px;
+    text-align:right;
+    font-family: 'Open Sans';
+}
+
+.woo_getscorecard_banner h1 {
+    display:inline-block;
+    line-height: 1.5;
+    float:left;
+    color:#ffffff;
+    font-family:'Titillium Web';
+    /*font-family:'Open Sans';*/
+    font-size:2.3em;
+    margin:40px 0px 0px 200px;
+
+}
+
+.woo_getscorecard_banner img {
+    margin:10px 2px 0px 0px;
+    border:0px;
+}
+
+#container_woo_gs_crm {
+    width:98%;
+    border:none;
+    padding:0px 0px 10px 10px;
+    background:#eeeeee;
+}
+
+#woo_gs_crm_toleft {
+    width:61% !important;
+    float:left;
+    background:#ffffff;
+    display:block;
+    overflow: hidden;
+    border:0px solid black;
+    padding:15px;
+    margin:0px 0px 0px 2px;
+}
+
+#woo_gs_crm_toleft_wide {
+    width:99%;
+    float:left;
+    background:#ffffff;
+    display:block;
+    overflow: hidden;
+    border:none;
+    padding:0px 5px 5px 10px;
+    margin:-15px 0px 0px -10px;
+    z-index:99;
+    position:relative;
+}
+
+#woo_gs_crm_toleft_wide h1 {
+    color:#07267E;
+}
+
+#woo_gs_crm_toleft_wide img{
+    vertical-align:middle; margin:0px 10px 0px 0px;
+}
+
+#woo_gs_crm_toleft_wide p {
+    font-size:1.2em;
+    line-height:23px;
+}
+
+.first_step_woo_gs_crm {
+    width:100%;
+}
+
+.first_step_woo_gs_crm h1 {
+    margin:5px 0px 0px 0px;
+}
+
+#woo_gs_crm_welcome {
+    width:100%;
+    min-height:240px;
+}
+
+.btn_woo_gs_crm_sign_up span {
+    display:inline-block;
+    margin: 0px 25px 0px -10px;
+    font-size:14px;
+}
+
+.btn_woo_gs_crm_button_import{
+    padding:10px 10px;
+    margin:0px 10px 0px 0px;
+    /*background:transparent url('../images/cf7_gs_yes_button.png') no-repeat top left;*/
+    -moz-border-radius:7px;
+    -o-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+    color:#ffffff;
+    background-color: rgb(164,170,175);
+    font-weight:bold;
+    /*text-align: left;*/
+    border:0px;
+    cursor:pointer;
+    width:280px;
+    height:38px;
+}
+
+.btn_woo_gs_crm_sign_up {
+    padding:10px 10px;
+    margin:0px 10px 0px 0px;
+    width:280px;
+    height:38px;
+    -moz-border-radius:7px;
+    -o-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+    color: #ffffff;
+    background-color: rgb(169,3,41);
+    font-weight:bold;
+    border:0px;
+    cursor:pointer;
+}
+
+.btn_woo_gs_crm_sign_in {
+    padding:10px 10px;
+    margin:0px 10px 0px 0px;
+    -moz-border-radius:7px;
+    -o-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+    color:#ffffff;
+    background-color:rgb(41,97,145);
+    font-weight:bold;
+    border:0px;
+    cursor:pointer;
+    width:280px;
+    height:38px;
+}
+
+.btn_woo_gs_crm_open_gs_link{
+    padding:10px 10px;
+    margin:0px 10px 0px 0px;
+    -moz-border-radius:7px;
+    -o-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+    color:#ffffff;
+    background-color:rgb(80,169,50);
+    font-weight:bold;
+    border:0px;
+    cursor:pointer;
+    width:280px;
+    height:38px;
+}
+
+.btn_woo_gs_crm_import_data {
+    padding:10px 10px;
+    margin:0px 10px 0px 0px;
+    -moz-border-radius:7px;
+    -o-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+    color:#ffffff;
+    background-color: rgb(164,170,175);
+    font-weight:bold;
+    border:0px;
+    cursor:pointer;
+    width:280px;
+    height:38px;
+}
+
+.btn_woo_gs_crm_sign_in span {
+    display:inline-block;
+    margin: 0px 25px 0px -15px;
+    font-size:14px;
+}
+
+
+.advice_notice_custom_alert {
+    border: 2px solid #FF0000;
+    display: block;
+    margin: 17px 0 0;
+    padding: 5px 5px;
+}
+
+label.labelform {
+    color:#000000;
+}
+
+.action_blue_button {
+    padding:10px 20px 10px 20px;
+    margin:-25px 10px 0px 0px;
+    background:rgb(41,97,145);
+    -moz-border-radius:7px;
+    -o-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+    color:#ffffff;
+    font-weight:bold;
+    border:0px;
+    cursor:pointer;
+    text-decoration:none;
+    z-index: 100;
+    position:relative;
+}
+
+.action_red_button {
+    padding:10px 20px 10px 20px;
+    margin:-25px 10px 0px 0px;
+    background:rgb(169,3,41);
+    -moz-border-radius:7px;
+    -o-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+    color:#ffffff;
+    font-weight:bold;
+    border:0px;
+    cursor:pointer;
+    text-decoration:none;
+    z-index: 100;
+    position:relative;
+}
+
+.login_form{
+    display:none;
+}
+
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../images/gs-ajax-loader.gif') 50% 50% no-repeat rgba(249,249,249,0.3);
+    display: none;
+}
